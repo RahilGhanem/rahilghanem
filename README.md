@@ -264,7 +264,11 @@ class RahilGhanem:
 
 <br/>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nbG85OWFrZnFneWo0YjA2dThqZ2w2dGl1OWJwYms4dXZiNmo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif" width="60%" alt="Sakura Footer"/>
+<img
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc1ZWJrMG8xc25vd24xNGphb2l5cGlhd2Y1OTQwNnRtejgzcjJwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99IssnppjZ5sY/giphy.gif"
+  width="60%"
+  alt="Sakura Footer"
+/>
 
 <br/>
 
