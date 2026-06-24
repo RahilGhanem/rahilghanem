@@ -48,7 +48,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo3NHJ3MWlvOWhlaDhqczc0emVydzAyejZqNnc3cG4wdmIxa200YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjjDRrfuctDHCtKxzf/giphy.gif" width="300" alt="Cute coding girl" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo3NHJ3MWlvOWhlaDhqczc0emVydzAyejZqNnc3cG4wdmIxa200YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjjDRrfuctDHCtKxzf/giphy.gif" width="500" alt="Cute coding girl" />
 
 ```python
 class RahilGhanem:
