@@ -84,42 +84,40 @@ class RahilGhanem:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,r,go&theme=dark" />
 
-<br/><br/>
 
 
 ### 🌸 🧠 Artificial Intelligence & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
 
-<br/><br/>
 
 
 ### 🌸 🤖 AI Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 🗄️ Data Science & Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 🔧 Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,cmake,postman,anaconda&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 ☁️ Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 📚 Research & Documentation
@@ -133,14 +131,14 @@ class RahilGhanem:
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 🎨 Design & Creativity
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 🖥️ Operating Systems
