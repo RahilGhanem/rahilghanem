@@ -55,24 +55,12 @@ class RahilGhanem:
 
     # ─── Education ──────────────────────────────────────
     school       = "ENSIA — National Higher School of AI"
-    degree       = "AI Engineering · Specialist Cycle 2022–2027"
-
-    # ─── Research Interests ─────────────────────────────
-    research     = [
-        "Medical NLP & Text Classification",
-        "Graph Neural Networks",
-        "Computer Vision",
-        "Multi-Label Learning",
-    ]
-
-    # ─── Current Project ────────────────────────────────
-    building     = "CATE-Med · Context-Adaptive Twin-Encoder"
-    dataset      = "OHSUMED-23 · PubMedBERT + MeSH GAT"
+    degree       = "AI Engineering · Specialist Cycle 2022–2027
 
     # ─── Fun Fact ────────────────────────────────────────
     fun_fact     = (
         "Trying to help computers see "
-        "so people can keep seeing 👁️🧠🌸"
+        "so people can keep seeing 🌸"
     )
 ```
 
