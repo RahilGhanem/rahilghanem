@@ -86,100 +86,35 @@ class RahilGhanem:
 
 ### 🌸 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,r,go&theme=dark" />
 
 <br/><br/>
 
 
 ### 🌸 🧠 Artificial Intelligence & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Transformers-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BERT%20%7C%20GPT-FFB6C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-D4537E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-C71585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Optimization-F4C0D1?style=for-the-badge" />
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
 
 <br/><br/>
 
 
-### 🌸 🤖 AI Frameworks & Research Tools
+### 🌸 🤖 AI Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Keras-FF1493?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/ONNX-C71585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFB6C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MLflow-F4C0D1?style=for-the-badge" />
-
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter&theme=dark" />
 
 <br/><br/>
 
 
-### 🌸 🌐 Web & Mobile Development
+### 🌸 🗄️ Data Science & Databases
 
-<img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter,dart&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-D4537E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mobile%20Applications-C71585?style=for-the-badge" />
-
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 
 <br/><br/>
 
 
-### 🌸 🗄️ Data Engineering & Databases
+### 🌸 🔧 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistical%20Modeling-FFB6C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Preprocessing-D4537E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature%20Engineering-C71585?style=for-the-badge" />
-
-
-<br/><br/>
-
-
-### 🌸 🔧 Development Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,jupyter&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cmake,postman&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/SLURM%20HPC-C71585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux%20Server-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Virtual%20Environments-F4C0D1?style=for-the-badge" />
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,jupyter,cmake,postman,anaconda&theme=dark" />
 
 <br/><br/>
 
@@ -188,12 +123,12 @@ class RahilGhanem:
 
 <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Google%20Colab-F4C0D1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kaggle%20Notebook-D4537E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model%20Deployment-C71585?style=for-the-badge" />
 
+### 🌸 📚 Research & Documentation
+
+<img src="https://skillicons.dev/icons?i=latex,markdown&theme=dark" />
 
 <br/><br/>
 
@@ -202,13 +137,6 @@ class RahilGhanem:
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT-F4C0D1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microcontrollers-D4537E?style=for-the-badge" />
-
-
 <br/><br/>
 
 
@@ -216,24 +144,12 @@ class RahilGhanem:
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Video%20Editing-FFB6C1?style=for-the-badge" />
-
-
 <br/><br/>
 
 
-### 🌸 📚 Research & Documentation
+### 🌸 🖥️ Operating Systems
 
-<img src="https://skillicons.dev/icons?i=latex,markdown&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scientific%20Writing-C71585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research%20Papers-D4537E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Technical%20Documentation-FF69B4?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark" />
 
 
 </div>
