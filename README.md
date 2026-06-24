@@ -232,7 +232,7 @@ class RahilGhanem:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
