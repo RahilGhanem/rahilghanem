@@ -33,7 +33,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="260" alt="Anime girl coding" />
+<img align="right" src="https://media.tenor.com/LmYXjQxJoM8AAAAC/anime-computer.gif" width="260" alt="Cute coding girl" />
 
 ```python
 class RahilGhanem:
