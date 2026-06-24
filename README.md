@@ -83,50 +83,44 @@ class RahilGhanem:
 
 <div align="center">
 
+## 🌸✨ Tech Stack & Skills
+
+<div align="center">
+
 ### 🌸 🧠 AI & Machine Learning
 
-<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,sklearn&theme=dark" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/BERT%20%7C%20GPT-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-FF1493?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-C71585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Graph%20Neural%20Networks-FF69B4?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
 
 <br/><br/>
 
 ### 🌸 💻 Development & Frameworks
 
-<a href="#"><img src="https://skillicons.dev/icons?i=flask,react,flutter,docker,git,linux&theme=dark" /></a>
+<img src="https://skillicons.dev/icons?i=react,flutter,flask,docker,git,linux&theme=dark" />
 
 <br/><br/>
 
 ### 🌸 🗄️ Data & Databases
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistical%20Modeling-FF1493?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Preprocessing-C71585?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
 <br/><br/>
 
-### 🌸 🔧 Tools & Hardware
+### 🌸 🔧 Tools & Research
 
-<a href="#"><img src="https://skillicons.dev/icons?i=figma,arduino,raspberrypi,jupyter,vscode&theme=dark" /></a>
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,arduino,raspberrypi,latex&theme=dark" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/CUDA%20%7C%20SLURM%20HPC-FF69B4?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX%20%7C%20Overleaf-FF1493?style=for-the-badge&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFB6C1?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+### 🌸 ☁️ AI & MLOps
+
+<img src="https://skillicons.dev/icons?i=github,git,docker,bash,linux&theme=dark" />
+
+<br/><br/>
+
+
 
 </div>
+
 
 <br/>
 
