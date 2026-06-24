@@ -168,7 +168,7 @@ class RahilGhanem:
 
 <br/>
 
-> ### 🌸 &nbsp;*"Be the change you want to see in the world."*&nbsp; 🌸
+> ### 🌸 &nbsp;*"Be the change you want to see in the world"*&nbsp; 🌸
 
 <br/>
 
