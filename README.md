@@ -57,18 +57,6 @@ class RahilGhanem:
     school       = "ENSIA — National Higher School of AI"
     degree       = "AI Engineering · Specialist Cycle 2022–2027"
 
-    # ─── Research Interests ─────────────────────────────
-    research     = [
-        "Medical NLP & Text Classification",
-        "Graph Neural Networks",
-        "Computer Vision",
-        "Multi-Label Learning",
-    ]
-
-    # ─── Current Project ────────────────────────────────
-    building     = "CATE-Med · Context-Adaptive Twin-Encoder"
-    dataset      = "OHSUMED-23 · PubMedBERT + MeSH GAT"
-
     # ─── Fun Fact ────────────────────────────────────────
     fun_fact     = (
         "Trying to help computers see "
@@ -265,7 +253,7 @@ class RahilGhanem:
 <br/>
 
 <img
-  src="https://share.google/3qD86gu9TRYEI3aFt"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc1ZWJrMG8xc25vd24xNGphb2l5cGlhd2Y1OTQwNnRtejgzcjJwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99IssnppjZ5sY/giphy.gif"
   width="60%"
   alt="Sakura Footer"
 />
