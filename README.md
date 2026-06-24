@@ -55,13 +55,10 @@ class RahilGhanem:
 
     # ─── Identity ───────────────────────────────────────
     name         = "Rahil Ghanem"
-    pronouns     = "she/her"
     location     = "Batna, Algeria 🇩🇿"
-
     # ─── Education ──────────────────────────────────────
     school       = "ENSIA - National Higher School of AI"
-    degree       = "AI Engineering · Specialist Cycle 2022–2027
-
+    degree       = "AI Engineering ·
     # ─── Fun Fact ────────────────────────────────────────
     fun_fact     = (
         "Trying to help computers see "
