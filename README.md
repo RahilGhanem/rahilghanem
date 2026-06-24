@@ -11,8 +11,8 @@
 
 <br/>
 
-<!-- ✦ ANIMATED HEADER BANNER ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Rahil%20Ghanem&fontSize=60&fontColor=fff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<!-- ✦ ANIMATED HEADER BANNER — pink gradient + artistic Great Vibes font ✦ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=200&section=header&text=Rahil%20Ghanem&fontSize=65&fontColor=fff&fontAlignY=42&animation=fadeIn&fontFamily=Great+Vibes" width="100%"/>
 
 <!-- ✦ MULTILINGUAL GREETING ✦ -->
 <h2>
@@ -56,6 +56,18 @@ class RahilGhanem:
     # ─── Education ──────────────────────────────────────
     school       = "ENSIA — National Higher School of AI"
     degree       = "AI Engineering · Specialist Cycle 2022–2027"
+
+    # ─── Research Interests ─────────────────────────────
+    research     = [
+        "Medical NLP & Text Classification",
+        "Graph Neural Networks",
+        "Computer Vision",
+        "Multi-Label Learning",
+    ]
+
+    # ─── Current Project ────────────────────────────────
+    building     = "CATE-Med · Context-Adaptive Twin-Encoder"
+    dataset      = "OHSUMED-23 · PubMedBERT + MeSH GAT"
 
     # ─── Fun Fact ────────────────────────────────────────
     fun_fact     = (
@@ -252,11 +264,7 @@ class RahilGhanem:
 
 <br/>
 
-<img
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc1ZWJrMG8xc25vd24xNGphb2l5cGlhd2Y1OTQwNnRtejgzcjJwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99IssnppjZ5sY/giphy.gif"
-  width="60%"
-  alt="Sakura Footer"
-/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nbG85OWFrZnFneWo0YjA2dThqZ2w2dGl1OWJwYms4dXZiNmo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif" width="60%" alt="Sakura Footer"/>
 
 <br/>
 
