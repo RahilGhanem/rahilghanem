@@ -114,7 +114,7 @@ class RahilGhanem:
 
 ### 🌸 🔧 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,jupyter,cmake,postman,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,cmake,postman,anaconda&theme=dark" />
 
 <br/><br/>
 
