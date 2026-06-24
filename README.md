@@ -124,7 +124,7 @@ class RahilGhanem:
 
 <img src="https://skillicons.dev/icons?i=latex,markdown&theme=dark" />
 
-<br/><br/>
+
 
 
 ### 🌸 📡 Hardware & Embedded Systems
@@ -149,7 +149,7 @@ class RahilGhanem:
 </div>
 
 
-<br/>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="100%"/>
