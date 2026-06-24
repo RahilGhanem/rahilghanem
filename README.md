@@ -12,15 +12,17 @@
   width="100%"
   alt="Sakura Blossoms"
 />
-
-
 <!-- ✦ ANIMATED HEADER BANNER — pink gradient + artistic Great Vibes font ✦ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=200&section=header&text=Rahil%20Ghanem&fontSize=65&fontColor=fff&fontAlignY=42&animation=fadeIn&fontFamily=Great+Vibes" width="100%"/>
 
 <!-- ✦ MULTILINGUAL GREETING ✦ -->
 <h2>
-  مرحباً &nbsp;✿&nbsp; Salam 3likom &nbsp;✿&nbsp; Bonjour &nbsp;✿&nbsp; Hello 👋
+🌸 Welcome • Bienvenue • أهلاً وسهلاً • Salam 3likom 🌸
 </h2>
+
+<p>
+✨ Building AI with curiosity, creativity, and a little bit of pink ✨
+</p>
 
 <!-- ✦ ANIMATED TYPING EFFECT ✦ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=🧠+Artificial+Intelligence+%26+Data+Science+Student;💡+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🚀+Full-Stack+AI+%7C+Research+%7C+HPC;🌍+ENSIA+Algeria+%7C+Building+AI+for+Real+Impact;✨+Passionate+about+Research+%26+Innovation)](https://git.io/typing-svg)
@@ -77,11 +79,11 @@ class RahilGhanem:
 
 ---
 
-## 🌸 &nbsp;Tech Stack & Skills
+## 🌸✨ Tech Stack & Skills
 
 <div align="center">
 
-### 🧠 &nbsp;AI & Machine Learning
+### 🌸 🧠 AI & Machine Learning
 
 <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,sklearn&theme=dark" /></a>
 
@@ -96,13 +98,13 @@ class RahilGhanem:
 
 <br/><br/>
 
-### 💻 &nbsp;Development & Frameworks
+### 🌸 💻 Development & Frameworks
 
 <a href="#"><img src="https://skillicons.dev/icons?i=flask,react,flutter,docker,git,linux&theme=dark" /></a>
 
 <br/><br/>
 
-### 🗄️ &nbsp;Data & Databases
+### 🌸 🗄️ Data & Databases
 
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" /></a>
 
@@ -114,7 +116,7 @@ class RahilGhanem:
 
 <br/><br/>
 
-### 🔧 &nbsp;Tools & Hardware
+### 🌸 🔧 Tools & Hardware
 
 <a href="#"><img src="https://skillicons.dev/icons?i=figma,arduino,raspberrypi,jupyter,vscode&theme=dark" /></a>
 
