@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ class RahilGhanem:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="100%"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ class RahilGhanem:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="100%"/>
 </div>
 
 ---
@@ -150,15 +150,13 @@ class RahilGhanem:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+
 
 ---
 
