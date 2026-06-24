@@ -79,72 +79,117 @@ class RahilGhanem:
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="90%"/>
+
+<br/>
 
 ### 🌸 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,r,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,r,go&theme=dark&perline=10" />
 
+<br/>
+
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 🧠 Artificial Intelligence & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8" />
 
+<br/>
+
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 🤖 AI Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter&theme=dark&perline=8" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 🗄️ Data Science & Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark&perline=8" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 🔧 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,cmake,postman,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,cmake,postman,anaconda&theme=dark&perline=10" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 ☁️ Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark&perline=6" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 📚 Research & Documentation
 
-<img src="https://skillicons.dev/icons?i=latex,markdown&theme=dark" />
+<img src="https://skillicons.dev/icons?i=latex,markdown&theme=dark&perline=6" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 📡 Hardware & Embedded Systems
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=6" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 🎨 Design & Creativity
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark&perline=6" />
 
+<br/>
 
+✿ ─────────────── ✿
+
+<br/>
 
 
 ### 🌸 🖥️ Operating Systems
 
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark&perline=6" />
 
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FADADD,50:F4C0D1,100:D4537E&height=3&section=header" width="90%"/>
 
 </div>
 
