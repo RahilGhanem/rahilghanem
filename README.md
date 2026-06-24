@@ -1,18 +1,22 @@
- " <!-- ============================================================ -->
+<!-- ============================================================ -->
 <!--   🌸 RAHIL GHANEM — GITHUB PROFILE README                   -->
-<!--   Username: RahilGhanem (already set — just verify!)         -->
-<!--   Email: rahil.ghanem@ensia.edu.dz (already set)            -->
-<!--   Replace YOUR_LINKEDIN_USERNAME with your actual handle     -->
+<!--   Username: RahilGhanem                                      -->
+<!--   Email: rahil.ghanem@ensia.edu.dz                          -->
 <!-- ============================================================ -->
 
 <div align="center">
+
+<!-- ✦ SAKURA BLOSSOM FULL-WIDTH GIF ✦ -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nbG85OWFrZnFneWo0YjA2dThqZ2w2dGl1OWJwYms4dXZiNmo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif" width="100%" alt="Sakura Blossoms"/>
+
+<br/>
 
 <!-- ✦ ANIMATED HEADER BANNER ✦ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Rahil%20Ghanem&fontSize=60&fontColor=fff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <!-- ✦ MULTILINGUAL GREETING ✦ -->
 <h2>
-  مرحباً &nbsp;•&nbsp; Salam 3likom &nbsp;•&nbsp; Bonjour &nbsp;•&nbsp; Hello 👋
+  مرحباً &nbsp;✿&nbsp; Salam 3likom &nbsp;✿&nbsp; Bonjour &nbsp;✿&nbsp; Hello 👋
 </h2>
 
 <!-- ✦ ANIMATED TYPING EFFECT ✦ -->
@@ -27,7 +31,13 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
+
+<br/>
 
 ---
 
@@ -37,63 +47,101 @@
 
 ```python
 class RahilGhanem:
-    school       = "ENSIA — National Higher School of AI, Algeria"
-    degree       = "AI Engineering (Specialist Cycle 2022–2027)"
-    location     = "Batna, Algeria 🇩🇿"
-    fun_fact      = "Trying to help computers see so people can keep seeing 👁️🧠🌸"
 
+    # ─── Identity ───────────────────────────────────────
+    name         = "Rahil Ghanem"
+    pronouns     = "she/her"
+    location     = "Batna, Algeria 🇩🇿"
+
+    # ─── Education ──────────────────────────────────────
+    school       = "ENSIA — National Higher School of AI"
+    degree       = "AI Engineering · Specialist Cycle 2022–2027"
+
+    # ─── Research Interests ─────────────────────────────
+    research     = [
+        "Medical NLP & Text Classification",
+        "Graph Neural Networks",
+        "Computer Vision",
+        "Multi-Label Learning",
+    ]
+
+    # ─── Current Project ────────────────────────────────
+    building     = "CATE-Med · Context-Adaptive Twin-Encoder"
+    dataset      = "OHSUMED-23 · PubMedBERT + MeSH GAT"
+
+    # ─── Fun Fact ────────────────────────────────────────
+    fun_fact     = (
+        "Trying to help computers see "
+        "so people can keep seeing 👁️🧠🌸"
+    )
 ```
 
 <br clear="right"/>
 
+<br/>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ---
-
 
 ## 🌸 &nbsp;Tech Stack & Skills
 
 <div align="center">
 
 ### 🧠 &nbsp;AI & Machine Learning
+
 <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,sklearn&theme=dark" /></a>
+
 <br/>
+
 <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/BERT%20%7C%20GPT-FF69B4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Transformers-FF1493?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-C71585?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graph%20Neural%20Networks-FF69B4?style=for-the-badge" />
+
+<br/><br/>
 
 ### 💻 &nbsp;Development & Frameworks
+
 <a href="#"><img src="https://skillicons.dev/icons?i=flask,react,flutter,docker,git,linux&theme=dark" /></a>
 
+<br/><br/>
+
 ### 🗄️ &nbsp;Data & Databases
+
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" /></a>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Data%20Analysis-FF69B4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Statistical%20Modeling-FF1493?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Preprocessing-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Preprocessing-C71585?style=for-the-badge" />
+
+<br/><br/>
 
 ### 🔧 &nbsp;Tools & Hardware
+
 <a href="#"><img src="https://skillicons.dev/icons?i=figma,arduino,raspberrypi,jupyter,vscode&theme=dark" /></a>
+
 <br/>
-<img src="https://img.shields.io/badge/CUDA%20%7C%20SLURM%20HPC-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX%20%7C%20Overleaf-008080?style=for-the-badge&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+
+<img src="https://img.shields.io/badge/CUDA%20%7C%20SLURM%20HPC-FF69B4?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX%20%7C%20Overleaf-FF1493?style=for-the-badge&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFB6C1?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 ---
-
-
-
-
 
 ## 📊 &nbsp;GitHub Analytics
 
@@ -109,6 +157,8 @@ class RahilGhanem:
 
 </div>
 
+<br/>
+
 ### 📈 &nbsp;Contribution Graph
 
 <div align="center">
@@ -117,21 +167,29 @@ class RahilGhanem:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 ---
-
-
 
 ## 💬 &nbsp;Philosophy
 
 <div align="center">
 
-> ### ***"Be the change you want to see in the world."***
+<br/>
+
+> ### 🌸 &nbsp;*"Be the change you want to see in the world."*&nbsp; 🌸
+
+<br/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 ---
 
@@ -139,28 +197,75 @@ class RahilGhanem:
 
 <div align="center">
 
+<br/>
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" />
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:rahil.ghanem@ensia.edu.dz">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" />
+  <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/RahilGhanem">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" />
+  <img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME">
-  <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" width="48" />
+  <img src="https://img.shields.io/badge/Kaggle-FFB6C1?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE">
+  <img src="https://img.shields.io/badge/ResearchGate-FF69B4?style=for-the-badge&logo=ResearchGate&logoColor=white" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/rahil.ghanem%40ensia.edu.dz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahil.ghanem@ensia.edu.dz)
+[![Gmail](https://img.shields.io/badge/rahil.ghanem%40ensia.edu.dz-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahil.ghanem@ensia.edu.dz)
 &nbsp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-FF69B4?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE)
 &nbsp;
-[![Kaggle](https:
+[![Kaggle](https://img.shields.io/badge/Kaggle-FFB6C1?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
+
+<br/>
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
+
+---
+
+<!-- ✦ CUTE FOOTER ✦ -->
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-🌸%20Love%20%26%20Code-FF69B4?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/From-Algeria%20🇩🇿-FF1493?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Powered%20by-Matcha%20🍵%20%26%20Curiosity-C71585?style=for-the-badge" />
+</p>
+
+<p>
+  <sub>
+    ✿ &nbsp; <em>If you like what you see, leave a ⭐ — it means the world!</em> &nbsp; ✿
+  </sub>
+</p>
+
+<br/>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nbG85OWFrZnFneWo0YjA2dThqZ2w2dGl1OWJwYms4dXZiNmo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif" width="60%" alt="Sakura Footer"/>
+
+<br/>
+
+</div>
