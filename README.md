@@ -42,8 +42,6 @@ class RahilGhanem:
     location     = "Batna, Algeria 🇩🇿"
     fun_fact = "Just a girl teaching computers how to see 👁️🌸"
 
-    def say_hi(self):
-        print("Welcome to my corner of GitHub — let's build something great!")
 ```
 
 <br clear="right"/>
