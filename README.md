@@ -14,9 +14,6 @@
 />
 
 
-
-<br/>
-
 <!-- ✦ ANIMATED HEADER BANNER — pink gradient + artistic Great Vibes font ✦ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=200&section=header&text=Rahil%20Ghanem&fontSize=65&fontColor=fff&fontAlignY=42&animation=fadeIn&fontFamily=Great+Vibes" width="100%"/>
 
