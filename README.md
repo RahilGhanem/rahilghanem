@@ -176,9 +176,9 @@ class RahilGhanem:
 </p>
 
 <p>
-  <sub>
-    ✿ &nbsp; <em>If you like what you see, leave a ⭐ — it means the world!</em> &nbsp; ✿
-  </sub>
+  <span style="font-size:19px;">
+    🌸 ✿ &nbsp; <b><em>If you enjoyed my work, don't forget to leave a ⭐ — it truly means a lot! 💗</em></b> &nbsp; ✿ 🌸
+  </span>
 </p>
 
 
