@@ -200,7 +200,7 @@ class RahilGhanem:
 
 <p>
   <span style="font-size:19px;">
-    🌸 ✿ &nbsp; <b><em>If you enjoyed my work, don't forget to leave a ⭐ — it truly means a lot! 💗</em></b> &nbsp; ✿ 🌸
+    🌸 ✿ &nbsp; <b><em>If you enjoyed my work, don't forget to leave a ⭐ — it truly means a lot! </em></b> &nbsp; ✿ 🌸
   </span>
 </p>
 
