@@ -131,39 +131,10 @@ class RahilGhanem:
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahilGhanem&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF69B4&icon_color=FF1493&text_color=ffffff&ring_color=FF69B4" height="180" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahilGhanem&theme=radical&hide_border=true&background=0D0D0D&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4" height="180" alt="GitHub Streak"/>
 
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahilGhanem&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF69B4&text_color=ffffff&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-### 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahilGhanem&bg_color=0D0D0D&color=FF69B4&line=FF1493&point=FF69B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
-
----
-
-## 💬 &nbsp;Philosophy
 
 <div align="center">
 
@@ -181,45 +152,6 @@ class RahilGhanem:
 
 ---
 
-## 📫 &nbsp;Let's Connect
-
-<div align="center">
-
-<br/>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rahil.ghanem@ensia.edu.dz">
-  <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/RahilGhanem">
-  <img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://kaggle.com/YOUR_KAGGLE_USERNAME">
-  <img src="https://img.shields.io/badge/Kaggle-FFB6C1?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE">
-  <img src="https://img.shields.io/badge/ResearchGate-FF69B4?style=for-the-badge&logo=ResearchGate&logoColor=white" />
-</a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/rahil.ghanem%40ensia.edu.dz-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahil.ghanem@ensia.edu.dz)
-&nbsp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-FF69B4?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-FFB6C1?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_USERNAME)
-
-<br/>
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -246,12 +178,7 @@ class RahilGhanem:
   </sub>
 </p>
 
-<br/>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nbG85OWFrZnFneWo0YjA2dThqZ2w2dGl1OWJwYms4dXZiNmo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif" width="60%" alt="Sakura Footer"/>
-
-<br/>
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=120&section=footer&animation=fadeIn" width="100%"/>
 
