@@ -5,7 +5,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-[[
+
 <!-- ✦ SAKURA BLOSSOM FULL-WIDTH GIF ✦ -->
 <img
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWszd3BuMDc4aWtvYjh2cnFiaHU5azV2NXhtYjVvOXF4djZ5MmMyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CHvjYdS2BWaYg/giphy.gif"
@@ -13,7 +13,7 @@
   alt="Sakura Blossoms"
 />
 
-<br/>
+
 
 <br/>
 
