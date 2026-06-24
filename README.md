@@ -62,8 +62,7 @@ class RahilGhanem:
     # ─── Fun Fact ────────────────────────────────────────
     fun_fact     = (
         "Trying to help computers see "
-        "so people can keep seeing 🌸"
-    )
+        "so people can keep seeing 🌸" )
 ```
 
 <br clear="right"/>
