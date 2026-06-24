@@ -168,11 +168,11 @@ class RahilGhanem:
 
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-🌸%20Love%20%26%20Code-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-🌸%20Love%20%26%20Code-F4C0D1?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/From-Algeria%20🇩🇿-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Algeria%20🇩🇿-D4537E?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Powered%20by-Matcha%20🍵%20%26%20Curiosity-C71585?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20by-Cookies%20🍪%20%26%20Selecto%20🥤-C71585?style=for-the-badge" />
 </p>
 
 <p>
