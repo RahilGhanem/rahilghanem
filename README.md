@@ -40,18 +40,7 @@ class RahilGhanem:
     school       = "ENSIA — National Higher School of AI, Algeria"
     degree       = "AI Engineering (Specialist Cycle 2022–2027)"
     location     = "Batna, Algeria 🇩🇿"
-
-    passion      = ["Deep Learning", "Computer Vision",
-                    "NLP & Transformers", "Medical AI",
-                    "Full-Stack AI Systems"]
-
-    current      = ["🔬 Glaucoma Detection via Deep Ensemble (HPC)",
-                    "🧬 CATE-Med: Biomedical NLP Research",
-                    "📖 Reading papers · Breaking GPUs · Writing LaTeX"]
-
-    languages    = {"Arabic": "Native", "English": "Fluent", "French": "B2"}
-
-    fun_fact     = "I founded a tech club before I finished my 2nd year 🌸"
+    fun_fact = "Just a girl teaching computers how to see 👁️🌸"
 
     def say_hi(self):
         print("Welcome to my corner of GitHub — let's build something great!")
@@ -59,16 +48,7 @@ class RahilGhanem:
 
 <br clear="right"/>
 
-<div align="center">
 
-|  |  |
-|:---|:---|
-| 🎓 | **AI Engineering Student** at ENSIA Algeria (2022–2027) |
-| 🔬 | Building **medical AI** & **computer vision** systems end-to-end |
-| 🌐 | Full-stack capabilities: **Python · React · Flutter · Flask** |
-| 🏆 | Hackathon competitor · Club founder · Workshop speaker |
-| 🤝 | Open to: **research collabs · internships · PhD opportunities** |
-| 🌸 | ***"Be the change you want to see in the world."*** |
 
 </div>
 
@@ -76,17 +56,6 @@ class RahilGhanem:
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=RahilGhanem&theme=radical&margin-w=12&margin-h=12&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
 
 ## 🌸 &nbsp;Tech Stack & Skills
 
