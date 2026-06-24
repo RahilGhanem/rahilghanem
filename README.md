@@ -83,19 +83,15 @@ class RahilGhanem:
 
 <div align="center">
 
-## 🌸✨ Tech Stack & Skills
+### 🌸 🧠 Artificial Intelligence & Machine Learning
 
-<div align="center">
-
-### 🌸 🧠 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 
 <br/><br/>
 
-### 🌸 💻 Development & Frameworks
+### 🌸 🤖 Frameworks & Research
 
-<img src="https://skillicons.dev/icons?i=react,flutter,flask,docker,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,react,flutter&theme=dark" />
 
 <br/><br/>
 
@@ -105,19 +101,27 @@ class RahilGhanem:
 
 <br/><br/>
 
-### 🌸 🔧 Tools & Research
+### 🌸 🔧 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,arduino,raspberrypi,latex&theme=dark" />
-
-<br/><br/>
-
-### 🌸 ☁️ AI & MLOps
-
-<img src="https://skillicons.dev/icons?i=github,git,docker,bash,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,jupyter&theme=dark" />
 
 <br/><br/>
 
+### 🌸 📡 Hardware & Embedded Systems
 
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+<br/><br/>
+
+### 🌸 🎨 Design & Creativity
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+
+<br/><br/>
+
+### 🌸 📚 Research & Documentation
+
+<img src="https://skillicons.dev/icons?i=latex,markdown&theme=dark" />
 
 </div>
 
