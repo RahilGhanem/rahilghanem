@@ -230,11 +230,7 @@ class RahilGhanem:
 <!-- ✦ CUTE FOOTER ✦ -->
 <div align="center">
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-🌸%20Love%20%26%20Code-FF69B4?style=for-the-badge" />
@@ -253,6 +249,11 @@ class RahilGhanem:
 <br/>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nbG85OWFrZnFneWo0YjA2dThqZ2w2dGl1OWJwYms4dXZiNmo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif" width="60%" alt="Sakura Footer"/>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
