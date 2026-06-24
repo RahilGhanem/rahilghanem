@@ -265,7 +265,7 @@ class RahilGhanem:
 <br/>
 
 <img
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc1ZWJrMG8xc25vd24xNGphb2l5cGlhd2Y1OTQwNnRtejgzcjJwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99IssnppjZ5sY/giphy.gif"
+  src="https://share.google/3qD86gu9TRYEI3aFt"
   width="60%"
   alt="Sakura Footer"
 />
