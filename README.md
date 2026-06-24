@@ -93,82 +93,9 @@ class RahilGhanem:
 
 ---
 
-## 🚀 &nbsp;Projects
 
-### 👁️ &nbsp;Glaucoma Detection — HPC Deep Learning Pipeline
-> *Flagship Research Project*
 
-A state-of-the-art quality-aware glaucoma diagnostics pipeline built and trained on HPC infrastructure.
 
-- **Heterogeneous ensemble** of EfficientNet-V2, Swin Transformer & ConvNeXt-V2 for full-spectrum retinal feature extraction
-- Custom **Quality-Weighted Focal Loss (QWFL)** to handle blurry/low-quality fundus images without data loss
-- **Monte Carlo Dropout** uncertainty engine — alerts clinicians when model confidence is low
-- **GradCAM++ & Attention Rollout** for clinical explainability across the Optic Nerve Head
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/📁%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahilGhanem/Glaucoma-Detection-HPC)
-&nbsp;
-[![Research Draft](https://img.shields.io/badge/📄%20Research%20Draft-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
-
-</div>
-
----
-
-### 🗣️ &nbsp;NABA2 — Algerian Darija Misinformation Detection
-> *NLP · Dataset Construction · Transformers*
-
-Contributed to **NABA2**, a large-scale annotated corpus of 22,000+ samples for multi-class misinformation detection in Algerian Darija. Worked on annotation validation and trained classical ML, neural, and transformer models to classify content into: Real · Misleading · False · Satire · Non-news.
-
----
-
-### 🌐 &nbsp;Automated Network Path Optimizer
-> *Internship @ Algérie Télécom, Barika — Sept 2025*
-
-Full-stack system automating fiber network path selection, bandwidth allocation, and ODB management. Implemented a **modified Dijkstra algorithm** with an interactive map visualization in Python/Flask. Used during actual operations for network planning and auditing.
-
----
-
-### 🏫 &nbsp;ENSIA Timetabling System
-> *AI Optimization · Constraint Solving*
-
-AI-driven academic timetable generator using real institutional data (teacher schedules, room allocation). Reduced scheduling conflicts and improved resource efficiency across the school.
-
----
-
-### 🏥 &nbsp;Health Clinic Surgery Management System
-> *AI Scheduling · Healthcare*
-
-Intelligent platform to schedule surgeries, assign operating rooms and staff, and dynamically estimate procedure durations based on patient conditions. Optimized hospital workflow and patient care delivery.
-
----
-
-### 📱 &nbsp;Other Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🗺️ **Tourista** | Guided mobile tour app for Algeria's major tourist sites | Flutter |
-| 💾 **Distributed Storage App** | AI-enhanced mobile platform for distributed data sync across devices | Flutter · ML |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
-## 🏅 &nbsp;Leadership & Activities
-
-<div align="center">
-
-| 🎯 Activity | 📋 Details |
-|:---|:---|
-| 🏆 **AI/Optimization Competitions** | Competed in AI/optimization tracks; built ML models for robotics, healthcare, finance & quantum computing |
-| 💡 **Nest Hackathon — Mobilis** | Developed hardware/software solutions to server-room operational challenges |
-| 🌸 **Founder — Languatech Club, Barika** | Founded & lead a tech club delivering workshops on programming, UI/UX, and digital literacy |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
 
 ## 📊 &nbsp;GitHub Analytics
 
@@ -196,27 +123,7 @@ Intelligent platform to schedule surgeries, assign operating rooms and staff, an
 
 ---
 
-## 🚀 &nbsp;Currently Working On
 
-```mermaid
-graph LR
-    A[🌸 Rahil's Roadmap] --> B[👁️ Glaucoma Detection HPC]
-    A --> C[🧬 CATE-Med NLP Research]
-    A --> D[📖 First Research Paper]
-    B --> E[Uncertainty Calibration]
-    B --> F[Multi-GPU DDP Training]
-    C --> G[PubMedBERT + GAT]
-    C --> H[MeSH Label Graphs]
-    D --> I[MICCAI / CVPR Submission]
-    style A fill:#FF69B4,stroke:#FF1493,color:#fff
-    style B fill:#8A2BE2,stroke:#7B1FA2,color:#fff
-    style C fill:#FF1493,stroke:#C2185B,color:#fff
-    style D fill:#FF69B4,stroke:#FF1493,color:#fff
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
 
 ## 💬 &nbsp;Philosophy
 
@@ -267,9 +174,5 @@ graph LR
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*🌸 &nbsp;Crafted with passion, caffeine, and a deep pink aesthetic — Rahil Ghanem &nbsp;🌸*
 
 </div>
