@@ -12,8 +12,8 @@
   width="100%"
   alt="Sakura Blossoms"
 />
-<!-- ✦ ANIMATED HEADER BANNER — pink gradient + artistic Great Vibes font ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=200&section=header&text=Rahil%20Ghanem&fontSize=65&fontColor=fff&fontAlignY=42&animation=fadeIn&fontFamily=Great+Vibes" width="100%"/>
+<!-- ✦ ANIMATED HEADER BANNER — pink gradient + Playfair Display for elegant serif name ✦ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:C71585&height=200&section=header&text=Rahil%20Ghanem&fontSize=65&fontColor=fff&fontAlignY=42&animation=fadeIn&fontFamily=Playfair+Display" width="100%"/>
 
 <!-- ✦ MULTILINGUAL GREETING ✦ -->
 <h2>
@@ -24,8 +24,8 @@
 ✨ Building AI with curiosity, creativity, and a little bit of pink ✨
 </p>
 
-<!-- ✦ ANIMATED TYPING EFFECT ✦ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=🧠+Artificial+Intelligence+%26+Data+Science+Student;💡+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🚀+Full-Stack+AI+%7C+Research+%7C+HPC;🌍+ENSIA+Algeria+%7C+Building+AI+for+Real+Impact;✨+Passionate+about+Research+%26+Innovation)](https://git.io/typing-svg)
+<!-- ✦ ANIMATED TYPING EFFECT — Cormorant Garamond for refined elegance ✦ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=🧠+Artificial+Intelligence+%26+Data+Science+Student;💡+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🚀+Full-Stack+AI+%7C+Research+%7C+HPC;🌍+ENSIA+Algeria+%7C+Building+AI+for+Real+Impact;✨+Passionate+about+Research+%26+Innovation)](https://git.io/typing-svg)
 
 <br/>
 
