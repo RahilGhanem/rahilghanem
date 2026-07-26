@@ -105,18 +105,8 @@
 
 <br/>
 
-<!-- Rows form a hexagon: 6 / 7 / 8 / 8 / 7 / 6 -->
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c&theme=light&perline=6" alt="tech"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,dart,r,go,pytorch,tensorflow,opencv&theme=light&perline=7" alt="tech"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,flask,react,nodejs,flutter,mysql,postgresql,mongodb&theme=light&perline=8" alt="tech"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,docker,linux,bash,vscode,cmake&theme=light&perline=8" alt="tech"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=postman,anaconda,aws,gcp,latex,markdown,arduino&theme=light&perline=7" alt="tech"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=raspberrypi,figma,photoshop,windows,linux,ubuntu&theme=light&perline=6" alt="tech"/>
+<!-- One flush, evenly-aligned grid (7 per row) -->
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,r,go,pytorch,tensorflow,opencv,sklearn,flask,react,nodejs,flutter,mysql,postgresql,mongodb,sqlite,git,github,docker,linux,bash,vscode,cmake,postman,anaconda,aws,gcp,latex,markdown,arduino,raspberrypi,figma,photoshop,windows,ubuntu&theme=light&perline=7" alt="Tech stack"/>
 
 <br/><br/>
 
