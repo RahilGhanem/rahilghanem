@@ -105,8 +105,8 @@
 
 <br/>
 
-<!-- One flush, evenly-aligned grid (7 per row) -->
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,kotlin,r,go,pytorch,tensorflow,opencv,sklearn,flask,react,nodejs,flutter,mysql,postgresql,mongodb,sqlite,git,github,docker,linux,bash,vscode,cmake,postman,anaconda,aws,gcp,latex,markdown,arduino,raspberrypi,figma,photoshop,windows,ubuntu&theme=light&perline=7" alt="Tech stack"/>
+<!-- Tech network: sakura core -> clusters -> brand-colored icons, connected by edges -->
+<img src="./assets/skills_network.png" width="92%" alt="Tech stack network"/>
 
 <br/><br/>
 
