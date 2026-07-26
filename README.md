@@ -125,7 +125,7 @@
 <br/>
 
 🌸 &nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=50&duration=4500&pause=100000&color=C71585&center=true&vCenter=true&repeat=false&width=760&height=110&lines=Be+the+change+you+want+to+see+in+the+world" alt="Be the change you want to see in the world"/>
+<img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=50&duration=4500&pause=100000&color=C71585&center=true&vCenter=true&repeat=false&width=750&height=110&lines=Be+the+change+you+want+to+see+in+the+world" alt="Be the change you want to see in the world"/>
 &nbsp; 🌸
 
 <br/>
